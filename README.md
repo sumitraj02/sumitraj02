@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumitraj02" alt="sumitraj02" /></a> </p>
 
-- 🌱 I’m currently learning **Java Backend**
+- 🌱 I’m  **Java Backend Developer** 
 
 - 📫 How to reach me **sumitkumar918403@gmail.com**
 
