@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sumit_raj02" target="blank"><img src="https://img.shields.io/twitter/follow/sumit_raj02?logo=twitter&style=for-the-badge" alt="sumit_raj02" /></a> </p>
 
-- 🌱 I’m currently learning **Java Backend**
+- 🌱 I’m **Java Backend Developer**
 
 - 📫 How to reach me **sumitkumar918403@gmail.com**
 
